@@ -110,6 +110,9 @@ header {
 .support-link {
   color: #0090f7;
 }
+.background-button :hover {
+  background-color: gray;
+}
 .product-cards {
   display: flex;
   padding-left: 140px;

@@ -101,6 +101,9 @@ header {
   color: var(--usegnii-ungu);
   border: white;
 }
+button:hover {
+  background-color: gray;
+}
 .background-button-buy {
   background-color: transparent;
   color: white;
